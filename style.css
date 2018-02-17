@@ -1,0 +1,8 @@
+.message-complete {
+    display: none;
+}
+
+.no-fill-field {
+    display: none;
+    color: red;
+}
